@@ -9,8 +9,8 @@ var Decimal = require('core-arbitrary-precision')(adapter);
 
 Decimal = require('../src/')(Decimal);
 
-describe('plus', function() {
-  it('should add a given number', function() {
+describe('minus', function() {
+  it('should subtract a given number', function() {
     new Decimal('3').minus(new Decimal('2')).toString().should.be.exactly('1');
   });
 });
