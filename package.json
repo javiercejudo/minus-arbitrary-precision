@@ -1,6 +1,6 @@
 {
   "name": "minus-arbitrary-precision",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "Subtraction abstraction for core-arbitrary-precision",
   "main": "src/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "precision",
     "arbitrary precision",
-    "op-arbitrary-precision"
+    "arbitrary-precision-op"
   ],
   "author": "Javier Cejudo <javier@javiercejudo.com> (http://www.javiercejudo.com)",
   "license": "MIT",
